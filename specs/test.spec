@@ -8,21 +8,13 @@ To execute this specification, run
 	gauge specs
 
 
-Olumlu Senaryo
+Favorilere ekleme ve Silme
 ---------------------------
-* Yabancı Dizi Safasına Git
-* Filmlerin Tumunu Aç
-* Yapım Yılına Göre Sırala
-* Açılan Listeden Patron Gibi Filmini Aç
-* Fragmanı Oynat
-* Fragman Sayfasından Filmler Sayfasına Tekrar Geri Gel
-* Açılan Listeden Patron Gibi Filmini Aç
-* Ücretsiz Üyelik Sayfasına Git
-* Web Cap Tablet Butonuna Tıkla
-* Kullanıcı Bilgilerini Doldur
-
-//raporu kontrol etmek için bu senaryoyu çalıştırabilirsiniz.
-
-Fail Alacak Olan Senaryo
----------------------------
-* Kullanıcı Bilgilerini Doldur
+* Confirim The Main Page
+* Go to login Page
+* Enter "znkldkfarazi@gmail.com" and "Mavi2020*" and login
+* Search "Huawei"
+* Go to Page 2
+* Add fow the third product
+* Go to My favorite
+* UnFav The Product
